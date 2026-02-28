@@ -43,3 +43,9 @@ The dashboard is built on two strategic pillars:
     Fraud Analytics Strategy: An overview of total alerts and protected capital (Saved Capital: 54.63K€).
 
     Profit Optimization: A dynamic tool to find the point where Net Profit is maximized, allowing managers to adjust strategy based on the cost per manual inspection.
+
+## 📂 Dataset
+The dataset used in this project is the **Credit Card Fraud Detection** dataset by Machine Learning Group (ULB). Due to file size limitations on GitHub, the raw data is not included here.
+* You can download it directly from Kaggle: [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+![Dashboard Screenshot](fraud_overview.png)
+![Dashboard Screenshot](Profit_Optimization_Analysis.png)
